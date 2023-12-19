@@ -2,13 +2,13 @@
 > This project is about checking time taken by LU, QR and Cholesky decompositions for a very large matrix.
 
 ## Getting Started
-- **<h3 style="color:#08b3fc">Clone the repository</h3>**
+<!-- - **<h3 style="color:#08b3fc">Clone the repository</h3>**
 
 ```bash
 git clone https://github.com/nandhu-44/DecompositionAnalysis.git
-```
+``` -->
 
-- **<h3 style="color:#08b3fc">Install the requirements</h3>**
+- **<h3 style="color:#08b3fc">Install the dependencies</h3>**
 
 ```bash
 pip install numpy matplotlib
